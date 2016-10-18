@@ -29,3 +29,5 @@
 *.app
 
 *.pdb
+
+SL_Generated.*
