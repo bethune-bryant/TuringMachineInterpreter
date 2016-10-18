@@ -1,5 +1,8 @@
 # TuringMachineInterpreter
-Interpreter for Turing Machines as presented in Turing's 1936 paper.
+This program was written to aid in the understanding of Turing Machines.
+It does so by allowing the user to execute Turing Machines and trace their execution.
+It was specifically designed to allow the execution of Turing Machines as they are 
+defined in Turing’s paper On Computable Numbers, with an Application to The Entscheidungsproblem.
 
 Usage:
 TuringInterpreter.exe <fileName=input.txt> <flag=arrow-state>
